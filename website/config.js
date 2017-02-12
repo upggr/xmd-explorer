@@ -1,16 +1,16 @@
-var api = "http://poolhost.com:1117";
+var api = "http://pool.xmdcoin.com:8117";
 
 var api_blockexplorer = "http://daemonhost.com:1118";
 
-var poolHost = "poolhost.com";
+var poolHost = "pool.xmdcoin.com";
 
-var irc = "irc.freenode.net/#poolhost";
+var irc = "irc.freenode.net/#xmdcoin";
 
-var email = "support@poolhost.com";
+var email = "info@upg.gr";
 
 var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
 
-var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
+var easyminerDownload = "http://xmdcoin.com/wp-content/uploads/2017/02/64bit.zip";
 
 var blockchainExplorer = "http://chainradar.com/{symbol}/block/{id}";
 

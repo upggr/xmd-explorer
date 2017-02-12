@@ -1,8 +1,8 @@
 {
-    "coin": "dashcoin",
-    "symbol": "DSH",
-    "coinUnits": 1000000000000,
-    "coinDifficultyTarget": 120,
+    "coin": "xmdcoin",
+    "symbol": "XMD",
+    "coinUnits": 100000000,
+    "coinDifficultyTarget": 1000,
 
     "logging": {
         "files": {
@@ -17,7 +17,7 @@
     },
 
     "poolServer": {
-        "enabled": true,
+        "enabled": false,
         "clusterForks": "auto",
         "poolAddress": "D6WLtrV1SBWV8HWQzQv8uuYuGy3uwZ8ah5iT5HovSqhTKMauquoTsKP8RBJzVqVesX87poYWQgkGWB4NWHJ6Ravv93v4BaE",
         "blockRefreshInterval": 1000,
@@ -105,12 +105,12 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password"
+        "password": "1"
     },
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 42081
+        "port": 63667
     },
 
     "wallet": {
