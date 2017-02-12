@@ -1,4 +1,4 @@
-var api = "http://pool.xmdcoin.com:8117";
+var api = "http://xmdcoin4.cloudapp.net:8117";
 
 var api_blockexplorer = "http://daemonhost.com:1118";
 
